@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "pt-BR": {
+          "summary": "Toca a rádio mais ouvida da cidade",
+          "examplePhrases": [
+            "Alexa, abrir rádio mais ouvida"
+          ],
+          "name": "Rádio Mais Ouvida",
+          "description": "Toca o streaming da Rádio Mais Ouvida."
+        }
+      },
+      "isAvailableWorldwide": true,
+      "testingInstructions": "Abra a skill e ela começará a tocar o stream da rádio.",
+      "category": "MUSIC_AND_AUDIO"
+    },
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "lambda ARN será preenchido automaticamente se Alexa-Hosted for usada"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
