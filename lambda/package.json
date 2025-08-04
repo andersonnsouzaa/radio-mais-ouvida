@@ -1,0 +1,9 @@
+{
+  "name": "radio-mais-ouvida",
+  "version": "1.0.0",
+  "description": "Alexa skill para tocar a rádio mais ouvida da cidade.",
+  "main": "index.js",
+  "dependencies": {
+    "ask-sdk-core": "^2.0.0"
+  }
+}
